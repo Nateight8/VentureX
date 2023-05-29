@@ -5,7 +5,7 @@ import localFont from "next/font/local";
 
 const inter = Inter({ subsets: ["latin"] });
 const custom = localFont({
-  src: "../../public/fonts/apple/SF-Compact-Display-regular.otf",
+  src: "../../public/fonts/apple/SF-Compact-Display-Regular.otf",
   // variable: "--heading",
 });
 
